@@ -93,7 +93,7 @@ the benefit of using the phar installation, but you can use it like any other
 composer dependency, i.e. you run Deptrac like this:
 
 ```
-composer require qossmic/deptrac-shim
+composer require --dev qossmic/deptrac-shim
 php vendor/bin/deptrac analyze
 ```
 
